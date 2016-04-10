@@ -35,7 +35,7 @@ The [SQLite Database Browser](http://sqlitebrowser.org/) is the recommended tool
   `DELETE FROM <table_name> WHERE <condition>`
   * Updating a record:  
   `UPDATE <table_name> SET <attribute_name>=<value> WHERE <condition>`
-  * Retreaving records:
+  * Retreaving records:  
   `SELECT <list of attributes or * for all columns> FROM Users WHERE <condition> ORDER BY <attribute_name>`
 
 <br>
